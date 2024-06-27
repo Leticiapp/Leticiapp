@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 ✧Engenheira de Dados (Data Engineer) <br>
 ✧Formada em Análise e Desenvolvimento de Sistemas <br>
 ✧Pós-Graduada em Ciência de Dados e Analytics <br>
-  
+<br>
+<img src="https://tenor.com/t3SPnuj3kzZ.gif" alt="Animated GIF">
+<br>
 <div>
 <a href="https://www.linkedin.com/in/leticia-paumer/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![image](https://github.com/Leticiapp/Leticiapp/assets/75919256/2eb043a5-2d84-4cf7-8b03-665c05839290)
 
