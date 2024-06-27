@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ✧Engenheira de Dados (Data Engineer) <br>
 ✧Formada em Análise e Desenvolvimento de Sistemas <br>
-✧Pós-Graduada em Ciência de Dados e Analytics <br>
+✧Pós-Graduada em Ciência de Dados e Analytics <br> <br>
 
-### Ferramentas e Tecnologias
+#### Ferramentas e Tecnologias
+<hr>
 <p>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" height="35"/>
