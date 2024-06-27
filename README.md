@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✧Engenheira de Dados (Data Engineer)
-✧Formada em Análise e Desenvolvimento de Sistemas
-✧Pós-Graduada em Ciência de Dados e Analytics
+✧Engenheira de Dados (Data Engineer) <br>
+✧Formada em Análise e Desenvolvimento de Sistemas <br>
+✧Pós-Graduada em Ciência de Dados e Analytics <br>
 
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiapp&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Leticiapp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
   
