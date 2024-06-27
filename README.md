@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ✧Formada em Análise e Desenvolvimento de Sistemas <br>
 ✧Pós-Graduada em Ciência de Dados e Analytics <br> <br>
 
-### Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 <hr style="height: 1px; border: none; background-color: #d1d5da; margin: 10px 0;">
 <p>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="35" height="35"/>
