@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ✧Pós-Graduada em Ciência de Dados e Analytics <br> <br>
 
 #### Ferramentas e Tecnologias
-<hr>
+***
 <p>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" height="35"/>
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+<p>Follow me on Linkedin!</p>
 <div>
 <a href="https://www.linkedin.com/in/leticia-paumer/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
