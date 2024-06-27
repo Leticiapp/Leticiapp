@@ -4,7 +4,7 @@
 ✧Formada em Análise e Desenvolvimento de Sistemas <br>
 ✧Pós-Graduada em Data Science e Analytics <br> <br>
 
-## Tools and Technologies
+## Tools and Technologies ✨
 <p>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" height="35"/>
@@ -16,6 +16,7 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" height="35"/>   
 </p>
 <br>
+![magic-computer](https://github.com/Leticiapp/Leticiapp/assets/75919256/6e7197b3-56e1-4128-8112-c0e6da78e801)
 
 <p>Follow me on Linkedin!</p>
 <div>
