@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ✧Pós-Graduada em Ciência de Dados e Analytics <br> <br>
 
 ### Ferramentas e Tecnologias
-<hr style="border: none; border-top: 1px solid #000; margin: 1em 0;">
-<br>
+<hr style="height: 1px; border: none; background-color: #d1d5da; margin: 10px 0;">
 <p>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" height="35"/>
