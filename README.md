@@ -16,7 +16,6 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" height="35"/>   
 </p>
 <br>
-![magic-computer](https://github.com/Leticiapp/Leticiapp/assets/75919256/6e7197b3-56e1-4128-8112-c0e6da78e801)
 
 <p>Follow me on Linkedin!</p>
 <div>
