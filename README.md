@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ✧Formada em Análise e Desenvolvimento de Sistemas <br>
 ✧Pós-Graduada em Ciência de Dados e Analytics <br>
 <br>
-<img src="https://tenor.com/t3SPnuj3kzZ.gif" alt="Animated GIF">
+<div class="tenor-gif-embed" data-postid="16700979819259403905" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/magic-computer-penguin-ai-data-gif-16700979819259403905">Magic Computer GIF</a>from <a href="https://tenor.com/search/magic-gifs">Magic GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <br>
 <div>
 <a href="https://www.linkedin.com/in/leticia-paumer/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
